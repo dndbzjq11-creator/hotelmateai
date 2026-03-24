@@ -10,8 +10,7 @@ export const HOTELS: Hotel[] = [
   { id: 6, name: "창원 그랜드시티 호텔", address: "경남 창원시 성산구 중앙대로 78", checkIn: "15:00", checkOut: "11:00" },
   { id: 7, name: "창원 크라운 호텔", address: "경남 창원시 의창구 창원대로363번길 22-5", checkIn: "15:00", checkOut: "12:00" },
   { id: 8, name: "창원 호텔 인터내셔널", address: "경남 창원시 성산구 중앙대로 69", checkIn: "15:00", checkOut: "12:00" },
-  { id: 9, name: "포항 코모도 호텔", address: "경북 포항시 남구 송도동 311-2", checkIn: "15:00", checkOut: "11:00" },
-  { id: 10, name: "포항 노블리온 호텔", address: "경상북도 포항시 남구 희망대로 659번길 20", checkIn: "16:00", checkOut: "11:00" }
+  { id: 9, name: "포항 코모도 호텔", address: "경북 포항시 남구 송도동 311-2", checkIn: "15:00", checkOut: "11:00" }
 ];
 
 export const SYSTEM_PROMPT = `
